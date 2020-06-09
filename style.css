@@ -1,0 +1,41 @@
+body {
+  font-family: monospace;
+  text-align: center;
+  align-items: center;
+}
+
+main {
+  border: 2px solid;
+  background-color: #eee;
+  width: 80vw;
+  margin: auto;
+}
+
+div {
+  margin: auto;
+}
+
+img {
+  padding-bottom: 6vh;
+}
+
+button {
+  background-color: lightgrey;
+  border-radius: 20%;
+  font-weight: 600;
+  font-family: monospace;
+  outline: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: white;
+}
+
+.roll {
+  padding: 0.3rem;
+}
+
+.titleDiv {
+  padding-top: 10vh;
+}
