@@ -1,10 +1,10 @@
-var diceNum = 1;
-var dieType = 4;
-var result = 0;
+let diceNum = 1;
+let dieType = 4;
+let result = 0;
 
 function rollDice() {
-  var i;
-  var roll;
+  let i;
+  let roll;
   result = 0;
   for (i = 0; i < diceNum; i++) {
     roll = Math.ceil(Math.random() * dieType);
