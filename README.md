@@ -1,4 +1,4 @@
-# Vanilla-JavaScript-Dice-Roller
+# JavaScript-Dice-Roller
 
 Roll virtual polyhedral dice.
 
